@@ -1,5 +1,7 @@
 package com.javaex.ex05;
 
+//해시셋이 중복데이터 저장이 불가능한데 가능한 이유와 해결책.
+
 public class Point {
 	
 	private int x;
